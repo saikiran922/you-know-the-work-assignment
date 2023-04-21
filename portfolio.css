@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    min-height: 100vh;
+    background-color: pink;
+}
+
+.icon1 {
+    height: 60px;
+    width: 60px;
+}
+
+.icon-text {
+    font-size: 12px;
+    font-family: "Roboto";
+    margin-top: 5px;
+}
+
+.name {
+    font-size: 30px;
+    font-family: "Roboto";
+    margin-bottom: 0px;
+    FONT-WEIGHT: 600;
+}
+
+.designation {
+    font-size: 10px;
+}
+
+.vl {
+    border-width: 2px;
+    height: 200px;
+    border-style: solid;
+}
+
+.vl1 {
+    border-width: 2px;
+    height: 260px;
+    border-style: solid;
+}
+
+.desc-text {
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+hr {
+    width: 80%;
+    border: solid;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.work {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.work-text {
+    font-family: "Roboto";
+    font-size: 12px;
+}
